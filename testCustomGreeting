@@ -1,0 +1,3 @@
+if (a == "marypeepokiss"){"oh hey".}
+else if (a == "blabla"){"Other custom greeting for relevant user".}
+else {"Hello!"}
